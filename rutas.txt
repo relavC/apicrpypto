@@ -1,3 +1,7 @@
+En el terminal ejecuta para el api
+uvicorn api:app --reload
+
+
 Swagger UI (documentación automática)
 
 http://127.0.0.1:8000/docs
