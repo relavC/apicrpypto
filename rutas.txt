@@ -1,0 +1,15 @@
+Swagger UI (documentación automática)
+
+http://127.0.0.1:8000/docs
+
+OpenAPI JSON
+
+http://127.0.0.1:8000/openapi.json
+
+Predict 1 día
+
+POST http://127.0.0.1:8000/predict_next
+
+Generar datos sintéticos
+
+POST http://127.0.0.1:8000/generate_synthetic
